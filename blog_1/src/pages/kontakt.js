@@ -9,6 +9,10 @@ return (
   <h1>
    Kontakt
   </h1>
+  <p>
+   Skontaktuj sie ze mną.
+  </p>
+  <p><Link to="/">Home</Link></p>
 </div>
 
 

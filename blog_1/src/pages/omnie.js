@@ -8,7 +8,9 @@ return (
 <div>
   <h1>
    O mnie
-  </h1>
+  </h1> 
+  <p>Informacje o mnie</p>
+  <p><Link to="/">Home</Link></p>
 </div>
 
 
