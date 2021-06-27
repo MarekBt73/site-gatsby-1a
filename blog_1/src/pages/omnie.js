@@ -1,7 +1,7 @@
-import * as React from "react"
+import  React from "react"
 import {Link} from 'gatsby' 
 
-const oMnie = () => {
+const Omnie = () => {
 
 return (
 
@@ -20,4 +20,4 @@ return (
 
 
 
-export default oMnie
+export default Omnie

@@ -1,7 +1,7 @@
-import * as React from "react"
+import  React from "react"
 import {Link} from 'gatsby' 
 
-const contactPage = () => {
+const Contact = () => {
 
 return (
 
@@ -22,4 +22,4 @@ return (
 
 
 
-export default contactPage
+export default Contact

@@ -1,7 +1,7 @@
-import * as React from "react"
+import  React from "react"
 import {Link} from 'gatsby' 
 
-const galery = () => {
+const Galery = () => {
 
 return (
 
@@ -20,4 +20,4 @@ return (
 
 
 
-export default galery
+export default Galery
