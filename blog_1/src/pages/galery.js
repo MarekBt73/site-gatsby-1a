@@ -1,12 +1,16 @@
 import  React from "react"
 import {Link} from 'gatsby' 
 import Layout from "../components/leyaut"
+
+
+
 const Galery = () => {
 
 return (
 <Layout>
 <div>
   
+
   <h1>
    Galeria zdięć
   </h1> 
@@ -23,4 +27,4 @@ return (
 
 
 
-export default Galery
+export default Galery 
